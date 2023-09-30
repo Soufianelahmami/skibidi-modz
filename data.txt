@@ -43,13 +43,13 @@
   
   "clicks_to_show_inter": 2,
   "native_rate": 2,
-    "onesignal_id": "xxx",
+    "onesignal_id": "08927f30-3e98-4817-ac43-ab885656b7de",
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
-	 "text": "xxxx",
+	 "image": "https://iili.io/Jdcw56N.webp",
+	 "title": "skibidi modz",
+	 "text": "Create a modification for a popular dance game (like Just Dance or Dance Dance Revolution) that includes the Skibidi dance moves. Players can follow the on-screen instructions to mimic the dance and score points based on their accuracy.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -57,9 +57,9 @@
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdcwRGp.webp",
+	 "title": "skibidi modz",
+	 "text": "Develop a mod for a popular video game that replaces characters with those from the Skibidi music video. For example, you could replace characters in a game like Minecraft or The Sims with the band members or people doing the Skibidi dance.",
 	 "text_two": "xxxx",
 
 	 "isLocked": true,
@@ -67,9 +67,9 @@
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
+	 "image": "https://iili.io/JdcwAnR.webp",
+	 "title": "skibidi modz",
+	 "text": "Create a music mod for rhythm games like Beat Saber or Guitar Hero that includes the Skibidi song. Players can enjoy the song while playing the game, and the note patterns can be designed to match the rhythm and energy of the Skibidi track.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -77,9 +77,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdcwTZv.webp",
+	 "title": "skibidi modz",
+	 "text": "Design custom costumes or skins for characters in popular games that resemble the outfits worn in the Skibidi music video. This could be applied to games like Fortnite, Minecraft, or any other game that supports custom character skins.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -87,9 +87,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
+	"image": "https://iili.io/Jdcwzua.webp",
+	 "title": "skibidi modz",
+	 "text": "Develop a mobile game inspired by the Skibidi meme. This could be a rhythm-based game where players have to tap, swipe, or gesture to the beat of the Skibidi song, earning points for accuracy and style.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
@@ -97,9 +97,9 @@
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
+	"image": "https://iili.io/JdcwIwJ.webp",
+	 "title": "skibidi modz",
+	 "text": "Create a virtual reality experience that allows users to immerse themselves in the Skibidi world. This could involve dancing alongside virtual representations of the band members or exploring environments inspired by the music video.",
 	 "text_two": "xxxx",
 
 	 "isLocked": false,
